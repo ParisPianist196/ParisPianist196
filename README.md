@@ -1,4 +1,7 @@
-## Hi there 👋
+## Expert Software Nerd 🤓 | Aspiring Old Lady 👵
+![Static Badge](https://img.shields.io/badge/portfolio?labelColor=%235E548E&link=portfolio.abigailhendrick.com)
+
+
 
 <!--
 **ParisPianist196/ParisPianist196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
