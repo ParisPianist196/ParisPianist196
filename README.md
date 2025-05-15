@@ -1,6 +1,6 @@
 ## Expert Software Nerd 🤓 | Aspiring Old Lady 👵
-[![Static Badge](https://img.shields.io/badge/portfolio-visit-blue?labelColor=%235E548E)](https://portfolio.abigailhendrick.com)
-
+[![Static Badge](https://img.shields.io/badge/portfolio-5E548E)](https://portfolio.abigailhendrick.com)
+https://img.shields.io/badge/just%20the%20message-8A2BE2
 
 
 <!--
