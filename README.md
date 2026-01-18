@@ -6,8 +6,8 @@ I love Lord of the Rings, I play piano, I'm enmeshed with my cat, and I spend a 
 
 ### ✅ Projects I Really Like
 - [Help is Here](https://www.sethowens.org/)
-- [Timberwolf Tree Service LLC](https://www.timberwolftreeservicellc.com/)
-- [My Status](https://status.abigailhendrick.com/)
+- [Timey Blocky](https://timey-blocky.vercel.app)
+- [Golden Spiral](https://spiral.abigaillovelace.com/)
 
 ### 🛠️ Tech Stack
 | Languages | Frontend | DB | Tools & Platforms |
